@@ -1,0 +1,6 @@
+projectKey=com.mt.ant.web
+serverUrl=http://localhost:9000
+serverVersion=7.4.0.18908
+dashboardUrl=http://localhost:9000/dashboard?id=com.mt.ant.web
+ceTaskId=AWfvJM1zKil4t2TZAzXv
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWfvJM1zKil4t2TZAzXv
